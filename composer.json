@@ -1,0 +1,17 @@
+{
+    "name": "kamran/phptest",
+    "autoload": {
+        "psr-4": {
+            "Kamran\\Phptest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kamran Barakpour",
+            "email": "kamran_barakpour@yahoo.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
